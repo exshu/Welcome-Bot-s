@@ -1,5 +1,5 @@
 # Discord Public Ses Botu / V12
-
+*WELCOME 1'den 5'e kadar olan kısmı " botlar " adlı bir klasör açıp içerisine atın. Yoksa çalışmaz*
 # Kurulum
 * İlk olarak bilgisayarına [Node JS](https://nodejs.org/en/) indir.
 * Bu projeyi zip halinde indir.
